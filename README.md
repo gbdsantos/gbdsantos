@@ -11,7 +11,7 @@
 - 🧑‍🚀 Junior Software Engineer 
 - 🔭 I'm currently working with Chatbots
 - 🌱 I'm currently focused learn React Native 
-- 🥅 2021 Goals: Become a Software Engineer Middle and contribute more to open source projects
+- 🥅 2022 Goals: Become a Middle Software Engineer, achievement AWS Developer Associate certification and start contributing to open source projects
 - 😄 Pronouns: He/Him
 - ⛩️ Japanese culture enthusiast 
 
