@@ -1,4 +1,4 @@
-<h1 align="center">Hi,<img src="./hi.gif" width="30px" /> I'm Guilherme!</h1>
+<h1 align="center">Hi,<img src="./hi.gif" height="30px" width="30px" /> I'm Guilherme!</h1>
 
 <p align="center">
   <i>“People's dreams never die!”</i>
