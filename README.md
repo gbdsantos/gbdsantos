@@ -1,4 +1,4 @@
-<h1 align="center">Hi,<img src="./hi.gif" height="30px" width="30px" /> I'm Guilherme!</h1>
+<h1 align="center">Hi,<img src="./assets/hi.gif" height="30px" width="30px" /> I'm Guilherme!</h1>
 
 <p align="center">
   <i>“People's dreams never die!”</i>
@@ -11,7 +11,10 @@
 - 🧑‍🚀 Junior Software Engineer 
 - 🔭 I'm currently working with Chatbots
 - 🌱 I'm currently focused learn React Native 
-- 🥅 2022 Goals: Become a Middle Software Engineer, achievement AWS Developer Associate certification and start contributing to open source projects
+- 🥅 2022 Goals: 
+  - :dart: Become a Middle Software Engineer
+  - :white_check_mark: Achievement AWS Developer Associate certification 
+  - :dart: Start contributing to open source projects
 - 😄 Pronouns: He/Him
 - ⛩️ Japanese culture enthusiast 
 
@@ -37,6 +40,16 @@
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/linux--v2.png"/>
   <img src="https://img.icons8.com/ios/50/ffffff/markdown--v2.png"/>
+</div>
+
+<br />
+
+## Certifications
+
+<div style="display: inline_block"><br>
+  <a alt="AWS Certifed Developer Associate verification link" href="https://www.credly.com/badges/7b52f482-5fd3-48d9-84de-caaac854b041/public_url" >
+    <img src="./assets/aws-certified-developer-associate-badge-600x600.png" height="80px" width="80px" />
+  </a>
 </div>
 
 <br />
