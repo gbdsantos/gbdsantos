@@ -8,7 +8,7 @@
 
 <br />
 
-- 👦 Junior Software Engineer 
+- 👨‍💻 Software Engineer 
 - 💼 I'm currently working with mobile development with React Native
 - 📚 I'm currently focused learn Node.js, React Native and design patterns
 - 😄 Pronouns: He/Him
@@ -27,19 +27,17 @@
    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux logo" />
 </p>
 
-<div>
-  <a href="https://github.com/gbdsantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbdsantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbdsantos&layout=compact&langs_count=16&theme=dark" />
-</div>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gbdsantos&repo=awesome-playground&show_owner=true&theme=dark&show_language=true)](https://github.com/gbdsantos/awesome-playground)
-
-
-👋 Connect with me:
+<br>
 
 <div>
+👋 Connect with me
   <a href="https://linkedin.com/in/gddsantos" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>   
 </div>
+
+<details>
+  <summary> ⚡ Github Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=gbdsantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbdsantos&layout=compact&langs_count=16&theme=dark" />
+</details>
