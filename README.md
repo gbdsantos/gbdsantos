@@ -1,16 +1,23 @@
 <h1 align="center">Hi,<img src="./assets/hi.gif" height="30px" width="30px" /> I'm Guilherme!</h1>
 
+<img src="./assets/landscape-1-by-1041uuu.gif"  align="right" width="300px" />
+
+<br>
+<br>
+
 <p align="center">
   <i>“People's dreams never die!”</i>
   <br/>
   <b>Marshall D. Teach, Blackbeard</ b>
 </p>
 
-<br />
+<br>
+<br>
+<br>
 
 - 👨‍💻 Software Engineer 
-- 💼 I'm currently working with mobile development with React Native
-- 📚 I'm currently focused learn Node.js, React Native and design patterns
+- 💼 I'm currently working with full-stack development with Node.js & Vue
+- 📚 I'm currently focused learn Node.js, React, Vue and design patterns
 - 😄 Pronouns: He/Him
 - ⛩️ Japanese culture enthusiast 
 
@@ -18,13 +25,17 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5 logo" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS logo" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white" alt="CSS logo" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript logo" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js logo" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native logo" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript logo" />
    <img src="https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white" alt="Git logo" />
    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux logo" />
+   <a href="https://vuejs.org">
+		<img alt="Vue 3 badge image" src="https://img.shields.io/badge/Vue.js-
+		35495E?style=flat&logo=vue.js&logoColor=4FC08D" />
+  </a>
 </p>
 
 <br>
