@@ -1,7 +1,8 @@
 <h1 align="center">Hi,<img src="./assets/hi.gif" height="30px" width="30px" /> I'm Guilherme!</h1>
 
-<img src="./assets/landscape-1-by-1041uuu.gif"  align="right" width="300px" />
+<img src="./assets/landscape-1-by-1041uuu.gif"  align="right" width="400px" />
 
+<br>
 <br>
 <br>
 
@@ -33,9 +34,8 @@
    <img src="https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white" alt="Git logo" />
    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux logo" />
    <a href="https://vuejs.org">
-		<img alt="Vue 3 badge image" src="https://img.shields.io/badge/Vue.js-
-		35495E?style=flat&logo=vue.js&logoColor=4FC08D" />
-  </a>
+     <img alt="Vue 3 badge image" src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" />
+   </a>
 </p>
 
 <br>
